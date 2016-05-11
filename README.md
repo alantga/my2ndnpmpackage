@@ -13,7 +13,7 @@ Build your file (either in the terminal or in your local editor) to feel its war
 
 If you would like Alan to positively reinforce you, write the following lines of code and build.
 * `var alan = require ('my2ndnpmpackage')`
-* `alan.positivelyreinforce()`
+* `alan.positivereinforcement()`
 
 [see this package on npm](https://www.npmjs.com/package/my2ndnpmpackage)
 

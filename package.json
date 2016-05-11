@@ -1,0 +1,23 @@
+{
+  "name": "my2ndnpmpackage",
+  "version": "1.0.1",
+  "description": "demo, test, practice publishing an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "alantga/my2ndnpmpackage"
+  },
+  "author": "alantga",
+  "license": "MIT",
+  "bugs": {
+    "url" : "https://github.com/alantga/my2ndnpmpackage/issues",
+    "email" : "alanmellis@gmail.com"
+  }
+}
